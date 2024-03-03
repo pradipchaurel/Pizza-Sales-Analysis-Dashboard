@@ -3,13 +3,14 @@
 ### PROBLEM STATEMENT
 
 - KPI’S REQUIREMENT
+  
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
 
-- Total Revenue
-- Average Order Value
-- Total Pizzas Sold
-- Total Orders
-- Average Pizzas Per Orders
+1. Total Revenue
+2. Average Order Value
+3. Total Pizzas Sold
+4. Total Orders
+5. Average Pizzas Per Orders
 
 
 - Dataset By - https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
